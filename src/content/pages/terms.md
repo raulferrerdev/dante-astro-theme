@@ -5,48 +5,79 @@ seo:
   description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
 ---
 
-**Last updated on January 11, 2024**
+# Terms of Use & Privacy Policy
 
-These Terms of Service ("Terms") govern your access to and use of [Website Name] ("the Website") and any related services provided by [Website Owner/Company] ("we," "us," or "our"). Please read these Terms carefully before using the Website.
+_Last updated: July 6, 2025_
 
-**1. Acceptance of Terms**
+Welcome to my personal website. This page outlines both the Terms of Use and the Privacy Policy. By accessing or using this site, you agree to the following terms. If you disagree with any part of them, please refrain from using the site.
 
-By accessing or using the Website, you agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms or the Privacy Policy, please do not use the Website.
+---
 
-**2. Changes to Terms**
+## 1. Purpose of the Site
 
-We reserve the right to modify, amend, or update these Terms at any time. Such changes will be effective upon posting on the Website. It is your responsibility to review these Terms regularly. Your continued use of the Website after any changes indicates your acceptance of the revised Terms.
+This is a personal site run by Raúl Ferrer. Its main purpose is to share ideas, projects, and insights about technology, leadership, and artificial intelligence. It serves as a portfolio and blog and is intended for informational and inspirational purposes only.
 
-**3. Use of the Website**
+---
 
-You agree to use the Website for lawful purposes and in a manner consistent with these Terms. You are responsible for any content you post or submit on the Website.
+## 2. Intellectual Property
 
-**4. Registration and Account**
+All content (including articles, visuals, code snippets, and designs) is my original work unless otherwise stated.  
+You may share or quote small portions as long as you include proper credit and a link back to the original post.  
+Reproducing full articles or using content for commercial purposes without permission is not allowed.
 
-Certain areas of the Website may require registration or the creation of an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+---
 
-**5. Content and Intellectual Property**
+## 3. No Professional Advice
 
-The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by us and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute the content without our prior written consent.
+All content represents personal opinions and experiences. It does **not** constitute professional, legal, financial, or technical advice.  
+Use the content at your own discretion and responsibility.
 
-**6. Third-Party Links**
+---
 
-The Website may contain links to third-party websites or resources. We do not endorse and are not responsible for the content, products, or services provided by third parties. Your use of such websites is at your own risk.
+## 4. No Responsibility for Use
 
-**7. Termination**
+While I aim to be accurate and helpful, I cannot be held responsible for how others use, interpret, or act on the information found here.
 
-We may, at our sole discretion, terminate or suspend your access to the Website at any time and for any reason, without notice.
+---
 
-**8. Disclaimer**
+## 5. External Links
 
-The Website and its content are provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy or completeness of the content. We do not guarantee that the Website will be error-free or uninterrupted.
+This website may contain links to third-party websites such as LinkedIn, GitHub, or Twitter.  
+I do not control or endorse the content or privacy practices of those websites and am not liable for any issues that arise from their use.
 
-**9. Limitation of Liability**
+---
 
-To the fullest extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or in connection with the use or inability to use the Website.
+## 6. Analytics and Cookies
 
-**10. Governing Law**
+This site uses basic privacy-friendly analytics (such as Google Analytics or Plausible) to understand general usage trends.  
+The data collected is **anonymous** and may include:
 
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of [Your Jurisdiction].
+- Pages visited  
+- Time spent on site  
+- Browser type and device  
+- Approximate location (city/country)  
+- Referral source (e.g., Google, social media)
+
+These tools may use cookies to track user behavior, but no personal data (like names or emails) is stored.
+
+---
+
+## 7. GDPR Compliance
+
+Although this website does not collect personal information directly (no contact forms or user logins), I still respect your rights under the GDPR:
+
+- You may request access to or deletion of any voluntarily shared information (e.g., via social media).
+- You may block or delete cookies via your browser settings.
+- If you interact with me via third-party platforms, refer to their privacy terms.
+
+---
+
+## 8. Changes to These Terms
+
+I may update this document occasionally. The most recent update date is always listed at the top. By continuing to use this website, you agree to the most recent version.
+
+---
+
+If you have any questions, feel free to reach out via my public social media channels.
 
 _Thank you for reading our Terms of Service. By using the Website, you agree to be bound by these Terms._
