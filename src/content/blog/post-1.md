@@ -1,7 +1,7 @@
 ---
 title: Why Artificial Intelligence Is the Next Step to Improve My Tech Leadership
 excerpt: Discover why a seasoned tech lead decided to dive into the world of Artificial Intelligence. In this post, I share the mindset shift, learning roadmap, and career goals behind my journey from mobile development to AI — and how you can start yours too.
-publishDate: 'Jul 6 2025'
+publishDate: 'Jan 6 2025'
 tags:
   - Leadership
 seo:
@@ -9,7 +9,7 @@ seo:
     src: '/post-1.jpg'
     alt: A notebook with a pen and a pencil and a laptop.
 ---
-
+![A notebook with a pen and a pencil and a laptop](/post-1.jpg)
 ## Why AI Is the Next Step to Improve My Tech Leadership
 
 As an experienced **Tech Lead**, I must keep learning and using new technologies to stay up to date and challenge new concepts in my team. Recently, I started using **Artificial Intelligence (AI)** to enhance my ability and provide better solutions for the projects I manage. 
