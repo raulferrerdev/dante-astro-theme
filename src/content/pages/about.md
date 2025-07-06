@@ -3,41 +3,41 @@ title: About
 seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
-  image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+I’m <b>Raúl Ferrer</b> — a Tech Lead, PhD in Chemistry, and lifelong self-learner.
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+After decades of building digital products, leading engineering teams, and adapting to every wave of change in tech, I’ve learned one thing: stagnation is a choice.
 
-## Ethan Donovan - Web Developer based in Estonia
+Now, I’m not starting over.
+I’m building on everything I already know — by going deep into Artificial Intelligence.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+## Why AI?
+Because it’s not a trend. It’s the next great toolset for technical leadership.
+Understanding AI is not optional for those who want to lead with vision, shape better products, and remain relevant in a changing world.
 
-## Skills and Expertise
+Over the next 12 months, I’m investing my energy in mastering applied AI.
+I’ll be learning in public, building real-world projects, and writing about every insight, challenge, and breakthrough.
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+<b>This journey is not about hype. It’s about competence, clarity, and action.</b>
 
-## Innovation and Problem-Solving
+## What I bring
+🧪 A scientific mindset (PhD in Chemistry)
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+💼 15+ years leading software teams and products
 
-## Global Perspective, Local Impact
+🚀 A proven ability to self-learn and execute
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+📣 A clear, authentic voice — and a willingness to share everything
 
-## Continuous Learning
+## What I’m doing now
+* Studying AI systems, ML fundamentals, and real-world applications (NLP, vision, agents)
+* Building a portfolio of open-source and demo AI products
+* Sharing my learnings weekly through blog posts, LinkedIn, and open notes
+* Growing a network of professionals who believe in learning through doing
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+## Who this is for
+If you're a technical leader curious about AI, a product builder looking for clarity, or someone who thinks “it’s too late to start” — this journey is for you.
+I’m documenting every step to show that reinvention isn’t about age. It’s about mindset.
 
-## Collaboration and Communication
-
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
-
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+<b>Let’s build the future. One project, one post, one connection at a time.</b>

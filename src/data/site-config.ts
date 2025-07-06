@@ -39,13 +39,13 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    website: 'https://raulferrergarcia.com',
+    title: 'From Tech Lead to AI Expert — One Year, One Mission',
+    subtitle: 'Follow my journey learning, building and publishing in Artificial Intelligence — with no excuses.',
+    description: 'Tech Lead | PhD | Expanding my impact through Artificial Intelligence — building, learning, and leading in public.',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/preview.jpg',
+        alt: 'Raúl Ferrer - An AI Journey'
     },
     headerNavLinks: [
         {
@@ -77,44 +77,24 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://instagram.com/raulferrerdev'
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://twitter.com/raulferrerdev'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "I’m Raúl Ferrer — Tech Lead, PhD, and lifelong learner. After years leading teams and building software products, I’m expanding my expertise into Artificial Intelligence. This isn’t a career switch. It’s a strategic evolution. Over the next 12 months, I’m deepening my technical leadership with AI skills, building real-world projects, and sharing everything I learn — transparently and consistently. If you’re a team leader, product builder or curious learner: follow along. Let’s shape the future with AI together.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
         },
-        actions: [
-            {
-                text: 'Get in Touch',
-                href: '/contact'
-            }
-        ]
-    },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
     },
     postsPerPage: 8,
     projectsPerPage: 8
