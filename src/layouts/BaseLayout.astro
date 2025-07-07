@@ -4,6 +4,7 @@ import BaseHead, { type Props as HeadProps } from '../components/BaseHead.astro'
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import Nav from '../components/Nav.astro';
+import CookieConsent from '../components/cookie-consent/CookieConsent.astro';
 
 export type Props = HeadProps & { showHeader?: boolean };
 
@@ -19,6 +20,36 @@ const { showHeader = true, ...head } = Astro.props;
                 document.documentElement.classList.add('dark');
             }
         </script>
+        <!-- GA4 -->
+        <script is:inline src="https://www.googletagmanager.com/gtag/js?id=G-WDHX1JW23Z"></script>
+
+        <script>
+            // We need a global definition to avoid type warnings
+            declare global {
+                interface Window {
+                    dataLayer: Record<string, any>[];
+                    gtag: (...args: any[]) => void;
+                }
+            }
+
+            // Initialize dataLayer
+            window.dataLayer = window.dataLayer || [];
+
+            // Define gtag function
+            window.gtag = function gtag(...args: any[]) {
+                window.dataLayer.push(arguments);
+            };
+
+            // Load GA4 with denied default consents
+            window.gtag('js', new Date());
+            window.gtag('consent', 'default', {
+                ad_storage: 'denied',
+                ad_user_data: 'denied',
+                ad_personalization: 'denied',
+                analytics_storage: 'denied'
+            });
+            window.gtag('config', 'G-WDHX1JW23Z');
+        </script>
         <ClientRouter />
     </head>
     <body class="bg-main text-main">
@@ -30,5 +61,7 @@ const { showHeader = true, ...head } = Astro.props;
             </main>
             <Footer />
         </div>
+        <slot />
+        <CookieConsent />
     </body>
 </html>
