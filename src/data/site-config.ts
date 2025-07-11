@@ -81,8 +81,8 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/raulferrerdev'
+            text: 'Linkedin',
+            href: 'https://www.linkedin.com/in/raulferrergarcia/'
         },
         {
             text: 'X/Twitter',
