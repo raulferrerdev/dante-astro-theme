@@ -1,5 +1,5 @@
 ---
-title: AI Roadmap for Tech Leads.s An 18-Month Learning Plan to Stay Relevant and Lead with Intelligence
+title: AI Roadmap for Tech Leads. An 18-Month Learning Plan to Stay Relevant and Lead with Intelligence
 excerpt: A flexible 18-month AI/ML learning roadmap for tech leads who want to stay relevant, build smarter systems, and lead with data-driven insights.
 publishDate: 'Jul 10 2025'
 tags:
