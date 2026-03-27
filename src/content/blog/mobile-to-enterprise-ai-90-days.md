@@ -1,5 +1,5 @@
 ---
-title: "From Mobile to Enterprise AI: My First 90 Days"
+title: 'From Mobile to Enterprise AI: My First 90 Days'
 excerpt: I've spent two decades building mobile software. Three months ago I started going deep on enterprise AI systems. Here's what surprised me, what confirmed my instincts, and what I got completely wrong.
 publishDate: 'Oct 7 2024'
 tags:
@@ -87,4 +87,4 @@ I'll keep writing about all of it. Going deeper, not broader.
 
 ---
 
-*The next few posts will get more specific: what serious RAG failure analysis actually reveals, what the EU AI Act means in practice for engineering teams, and what I'm calling the determinism gap — the missing piece that keeps most enterprise AI systems from being genuinely trustworthy.*
+_The next few posts will get more specific: what serious RAG failure analysis actually reveals, what the EU AI Act means in practice for engineering teams, and what I'm calling the determinism gap — the missing piece that keeps most enterprise AI systems from being genuinely trustworthy._
