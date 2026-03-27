@@ -35,17 +35,17 @@ export type SiteConfig = {
     hero?: Hero;
     subscribe?: Subscribe;
     postsPerPage?: number;
-    projectsPerPage?: number;
+    casestudiesPerPage?: number;
 };
 
 const siteConfig: SiteConfig = {
     website: 'https://raulferrergarcia.com',
-    title: 'From Tech Lead to AI Expert — One Year, One Mission',
-    subtitle: 'Follow my journey learning, building and publishing in Artificial Intelligence — with no excuses.',
-    description: 'Tech Lead | PhD | Expanding my impact through Artificial Intelligence — building, learning, and leading in public.',
+    title: 'Reliable Enterprise AI Systems',
+    subtitle: 'Architecture, failure modes, and evaluation strategies for real-world AI systems.',
+    description: 'Software Architect focused on AI systems reliability, evaluation, and enterprise architecture.',
     image: {
         src: '/preview.jpg',
-        alt: 'Raúl Ferrer - An AI Journey'
+        alt: 'Reliable Enterprise AI Systems'
     },
     headerNavLinks: [
         {
@@ -53,8 +53,8 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
+            text: 'Case Studies',
+            href: '/casestudies'
         },
         {
             text: 'Blog',
@@ -90,14 +90,29 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        text: "I’m Raúl Ferrer — Tech Lead, PhD, and lifelong learner. After years leading teams and building software products, I’m expanding my expertise into Artificial Intelligence. This isn’t a career switch. It’s a strategic evolution. Over the next 12 months, I’m deepening my technical leadership with AI skills, building real-world projects, and sharing everything I learn — transparently and consistently. If you’re a team leader, product builder or curious learner: follow along. Let’s shape the future with AI together.",
+        text: `I’m Raúl Ferrer — a software architect focused on AI systems reliability.
+
+Most AI systems today are not engineered — they are assembled.
+They work in demos, but fail in production due to poor evaluation, lack of observability, and fragile architectures.
+
+This site explores those failures.
+
+I analyze how AI systems behave under real-world conditions:
+- Noisy and evolving data.
+- Latency and cost constraints.
+- Non-deterministic outputs.
+- Degradation over time.
+
+The goal is simple:
+
+Understand why AI systems fail — and how to design them to be reliable.`,
         image: {
             src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
-        },
+            alt: 'AI system architecture visualization'
+        }
     },
     postsPerPage: 8,
-    projectsPerPage: 8
+    casestudiesPerPage: 8
 };
 
 export default siteConfig;

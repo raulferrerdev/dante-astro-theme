@@ -5,39 +5,45 @@ seo:
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
 ---
 
-I’m <b>Raúl Ferrer</b> — a Tech Lead, PhD in Chemistry, and lifelong self-learner.
+I work at the intersection of software architecture and AI systems reliability.
 
-After decades of building digital products, leading engineering teams, and adapting to every wave of change in tech, I’ve learned one thing: stagnation is a choice.
+Most AI systems today are not engineered — they are assembled.  
+They work in demos, but fail under real-world conditions: noisy data, latency constraints, unpredictable inputs, and lack of evaluation.
 
-Now, I’m not starting over.
-I’m building on everything I already know — by going deep into Artificial Intelligence.
+My work focuses on understanding those failures.
 
-## Why AI?
-Because it’s not a trend. It’s the next great toolset for technical leadership.
-Understanding AI is not optional for those who want to lead with vision, shape better products, and remain relevant in a changing world.
+---
 
-Over the next 12 months, I’m investing my energy in mastering applied AI.
-I’ll be learning in public, building real-world projects, and writing about every insight, challenge, and breakthrough.
+## Background
 
-<b>This journey is not about hype. It’s about competence, clarity, and action.</b>
+I spent over 15 years building production systems, primarily in mobile environments, where performance, reliability, and user experience are non-negotiable.
 
-## What I bring
-🧪 A scientific mindset (PhD in Chemistry)
+That background shapes how I approach AI:
 
-💼 15+ years leading software teams and products
+Not as isolated models, but as distributed systems with failure modes.
 
-🚀 A proven ability to self-learn and execute
+---
 
-📣 A clear, authentic voice — and a willingness to share everything
+## Current Focus
 
-## What I’m doing now
-* Studying AI systems, ML fundamentals, and real-world applications (NLP, vision, agents)
-* Building a portfolio of open-source and demo AI products
-* Sharing my learnings weekly through blog posts, LinkedIn, and open notes
-* Growing a network of professionals who believe in learning through doing
+- RAG (Retrieval-Augmented Generation) system design
+- Evaluation strategies for LLM-based systems
+- Observability and debugging of AI pipelines
+- Cost, latency, and scalability trade-offs
+- Reliability patterns for enterprise AI
 
-## Who this is for
-If you're a technical leader curious about AI, a product builder looking for clarity, or someone who thinks “it’s too late to start” — this journey is for you.
-I’m documenting every step to show that reinvention isn’t about age. It’s about mindset.
+---
 
-<b>Let’s build the future. One project, one post, one connection at a time.</b>
+## What You’ll Find Here
+
+This is not a tutorial blog.
+
+It’s a collection of:
+
+- architectural patterns
+- failure analyses
+- system-level insights
+
+All focused on one question:
+
+> Why do AI systems fail in production — and how do we fix that?

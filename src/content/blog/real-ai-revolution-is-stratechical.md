@@ -9,13 +9,14 @@ seo:
     src: '/post-4.jpg'
     alt: Strategi AI Vision
 ---
-![Strategi AI Vision](/post-4.jpg)
+
+![Strategi AI Vision](/real-ai-revolution-is-stratechical.jpg)
 
 # The Real AI Revolution Isn’t Technical — It’s Strategic
 
 For most of my career, I’ve led technical teams. I’ve shipped mobile apps, solved tough engineering challenges, and managed talented developers. But lately, something has shifted. Not in the code — in the boardroom. In the way leaders talk, plan, and think about the future.
 
-**Artificial Intelligence*** is no longer a buzzword reserved for researchers or data scientists. It’s a strategic lever. And I’ve come to realize that the **real revolution of AI won’t be technical. It will be strategic** — driven by those who can translate its potential into business value.
+**Artificial Intelligence\*** is no longer a buzzword reserved for researchers or data scientists. It’s a strategic lever. And I’ve come to realize that the **real revolution of AI won’t be technical. It will be strategic** — driven by those who can translate its potential into business value.
 
 That’s why I’ve started to shift. I'm learning how to speak the language of AI. I’m learning to see how it fits into organizations, people, and purpose. Because those who can connect those dots… will lead the next decade.
 

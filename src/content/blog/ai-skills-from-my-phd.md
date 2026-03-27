@@ -6,10 +6,10 @@ tags:
   - AI
 seo:
   image:
-    src: '/post-2.jpg'
+    src: '/ai-skills-from-my-phd.jpg'
     alt: Scientific mindset and AI
 ---
-![Scientific mindset and AI](/post-2.jpg)
+![Scientific mindset and AI](/ai-skills-from-my-phd.jpg)
 
 
 ## From multivariate calibration to machine learning pipelines — the scientific mindset travels farther than I thought (AI in Chemistry)

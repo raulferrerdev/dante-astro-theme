@@ -5,22 +5,22 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { sortItemsByDateDesc } from '../../utils/data-utils';
 
 export async function getStaticPaths() {
-    const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
-    const projectCount = projects.length;
-    return projects.map((project, index) => ({
+    const casestudies = (await getCollection('casestudies')).sort(sortItemsByDateDesc);
+    const projectCount = casestudies.length;
+    return casestudies.map((project, index) => ({
         params: { id: project.id },
         props: {
             project,
-            prevProject: index + 1 !== projectCount ? projects[index + 1] : null,
-            nextProject: index !== 0 ? projects[index - 1] : null
+            prevProject: index + 1 !== projectCount ? casestudies[index + 1] : null,
+            nextProject: index !== 0 ? casestudies[index - 1] : null
         }
     }));
 }
 
 type Props = {
-    project: CollectionEntry<'projects'>;
-    prevProject: CollectionEntry<'projects'>;
-    nextProject: CollectionEntry<'projects'>;
+    project: CollectionEntry<'casestudies'>;
+    prevProject: CollectionEntry<'casestudies'>;
+    nextProject: CollectionEntry<'casestudies'>;
 };
 
 const { project, prevProject, nextProject } = Astro.props;
